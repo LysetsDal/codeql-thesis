@@ -1,4 +1,4 @@
-name: lysetsdal/radarr-queries-csharp
+name: lysetsdal/thesis-queries-csharp
 version: 0.0.1
 dependencies:
     # This uses the latest version of the codeql/cpp-all library.

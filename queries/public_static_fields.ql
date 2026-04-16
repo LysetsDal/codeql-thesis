@@ -3,6 +3,9 @@
  * @description Finds all public static fields in .cs files.
  * @kind table
  * @id csharp/architectural/public-static-fields
+ * @problem.severity warning
+ * @precision medium
+ * @tags reliability
  */
 
 import csharp

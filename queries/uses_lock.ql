@@ -3,6 +3,9 @@
  * @description Finds all classes that uses an object lock
  * @kind table
  * @id csharp/locks/find-all
+ * @problem.severity warning
+ * @precision medium
+ * @tags reliability
  */
 
 import csharp

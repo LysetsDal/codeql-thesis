@@ -3,6 +3,9 @@
  * @description Finds fields accessed outside of locks, ignoring initializers and constructors.
  * @kind problem
  * @id csharp/architectural/conflicting-access-fixed
+ * @problem.severity warning
+ * @precision medium
+ * @tags reliability
  */
 
 import csharp

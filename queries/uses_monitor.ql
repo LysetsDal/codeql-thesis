@@ -3,6 +3,9 @@
  * @description Finds Monitor.Enter by manually checking the string names of the method and its parent type.
  * @kind table
  * @id csharp/monitors/find-all-basics
+ * @problem.severity warning
+ * @precision medium
+ * @tags reliability
  */
 
 import csharp
